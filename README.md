@@ -1,35 +1,8 @@
-
+\
 
 # Bike Pooler App
 
-## Revolutionizing Urban Commutes: Eco-Friendly, Affordable, and Community-Driven
-
-<p align="center">
-  <img src="placeholder_image_link_or_logo.png" alt="Bike Pooler Logo" width="250"/>
-</p>
-
-## Table of Contents
-
-*   [About Bike Pooler](#about-bike-pooler)
-*   [Features](#features)
-    *   [Core Features](#core-features)
-    *   [Safety & Security](#safety--security)
-*   [Getting Started](#getting-started)
-    *   [Prerequisites](#prerequisites)
-    *   [Installation (for Developers)](#installation-for-developers)
-    *   [Running the App](#running-the-app)
-*   [User Onboarding](#user-onboarding)
-    *   [Passengers](#passengers)
-    *   [Drivers](#drivers)
-*   [How to Use](#how-to-use)
-    *   [For Drivers](#for-drivers)
-    *   [For Passengers](#for-passengers)
-*   [Pricing & Payments](#pricing--payments)
-*   [Contributing](#contributing)
-*   [License](#license)
-*   [Contact](#contact)
-
----
+## Revolutionizing Urban Commutes: Eco-Friendly, Affordable, and Community-Drive
 
 ## About Bike Pooler
 
