@@ -5,7 +5,7 @@
 ## Revolutionizing Urban Commutes: Eco-Friendly, Affordable, and Community-Drive
 
 ## About Bike Pooler
-
+with team @Raghavendra pedada,@ Agi pooja
 Bike Pooler is an innovative ride-sharing application designed to connect cyclists with available seats on their bikes (drivers) with passengers looking for efficient, eco-friendly, and affordable transportation. Our mission is to reduce urban traffic congestion, lower transportation costs, and build a vibrant community of bike enthusiasts.
 
 We envision a future where urban commuting is sustainable, cost-effective, and fosters genuine connections between community members. Bike Pooler makes bike pooling accessible, safe, and rewarding for everyone.
